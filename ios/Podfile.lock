@@ -957,6 +957,9 @@ PODS:
   - react-native-zego-express-engine (3.12.4):
     - React
     - ZegoExpressEngine (= 3.12.4)
+  - react-native-zego-zim (2.12.1):
+    - React
+    - ZIM (= 2.12.1)
   - React-nativeconfig (0.73.4)
   - React-NativeModulesApple (0.73.4):
     - glog
@@ -1150,7 +1153,10 @@ PODS:
     - React-Core
   - zego-uikit-rn (2.6.1):
     - React-Core
+  - zegocloud-zimkit-rn (2.0.0):
+    - React-Core
   - ZegoExpressEngine (3.12.4)
+  - ZIM (2.12.1)
 
 DEPENDENCIES:
   - boost (from `../node_modules/react-native/third-party-podspecs/boost.podspec`)
@@ -1210,6 +1216,7 @@ DEPENDENCIES:
   - react-native-safe-area-context (from `../node_modules/react-native-safe-area-context`)
   - react-native-webview (from `../node_modules/react-native-webview`)
   - react-native-zego-express-engine (from `../node_modules/zego-express-engine-reactnative`)
+  - react-native-zego-zim (from `../node_modules/zego-zim-react-native`)
   - React-nativeconfig (from `../node_modules/react-native/ReactCommon`)
   - React-NativeModulesApple (from `../node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios`)
   - React-perflogger (from `../node_modules/react-native/ReactCommon/reactperflogger`)
@@ -1238,6 +1245,7 @@ DEPENDENCIES:
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
   - "zego-uikit-prebuilt-call-rn (from `../node_modules/@zegocloud/zego-uikit-prebuilt-call-rn`)"
   - "zego-uikit-rn (from `../node_modules/@zegocloud/zego-uikit-rn`)"
+  - "zegocloud-zimkit-rn (from `../node_modules/@zegocloud/zimkit-rn`)"
 
 SPEC REPOS:
   trunk:
@@ -1255,6 +1263,7 @@ SPEC REPOS:
     - OpenSSL-Universal
     - SocketRocket
     - ZegoExpressEngine
+    - ZIM
 
 EXTERNAL SOURCES:
   boost:
@@ -1322,6 +1331,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-webview"
   react-native-zego-express-engine:
     :path: "../node_modules/zego-express-engine-reactnative"
+  react-native-zego-zim:
+    :path: "../node_modules/zego-zim-react-native"
   React-nativeconfig:
     :path: "../node_modules/react-native/ReactCommon"
   React-NativeModulesApple:
@@ -1378,6 +1389,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/@zegocloud/zego-uikit-prebuilt-call-rn"
   zego-uikit-rn:
     :path: "../node_modules/@zegocloud/zego-uikit-rn"
+  zegocloud-zimkit-rn:
+    :path: "../node_modules/@zegocloud/zimkit-rn"
 
 SPEC CHECKSUMS:
   boost: d3f49c53809116a5d38da093a8aa78bf551aed09
@@ -1424,6 +1437,7 @@ SPEC CHECKSUMS:
   react-native-safe-area-context: b97eb6f9e3b7f437806c2ce5983f479f8eb5de4b
   react-native-webview: 0f93dc8f4208ae5365884922c3cd14da5037ca4c
   react-native-zego-express-engine: 4e317c855fa081c1f4c3720f3bbd72bb4bb7b8b0
+  react-native-zego-zim: 8ccf8bca633b2a947b1407c9f2a76767c1667154
   React-nativeconfig: d7af5bae6da70fa15ce44f045621cf99ed24087c
   React-NativeModulesApple: 0123905d5699853ac68519607555a9a4f5c7b3ac
   React-perflogger: 8a1e1af5733004bdd91258dcefbde21e0d1faccd
@@ -1453,7 +1467,9 @@ SPEC CHECKSUMS:
   Yoga: 1b901a6d6eeba4e8a2e8f308f708691cdb5db312
   zego-uikit-prebuilt-call-rn: 467378bc73519b86d89306e051250bf4e11cd04e
   zego-uikit-rn: 6a9bc3033c5a7d234f83dab9c9cf2707cd693a00
+  zegocloud-zimkit-rn: 238cd435cdd07c6a313b00d3a19771386ebc1d0c
   ZegoExpressEngine: 4134bbfaecf5ce4ab5c47338ff817942d646750f
+  ZIM: 57ce22334b15f918ec13ce88e9632d3ebe36d5ba
 
 PODFILE CHECKSUM: 13aebdcf18f45a8b851918ab053198bfac7e0757
 
