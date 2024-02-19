@@ -1,18 +1,19 @@
-import {NativeStackScreenProps} from '@react-navigation/native-stack/lib/typescript/src/types';
-import {useState} from 'react';
-import {Alert, Button, StyleSheet, Text, TextInput, View} from 'react-native';
-import {MainStackParamList} from '../navigation/MainStack';
-import {VIDEO_CALL_SCREEN} from '../utils/ScreenConstants';
+import { NativeStackScreenProps } from "@react-navigation/native-stack/lib/typescript/src/types";
+import { useState } from "react";
+import { Alert, Button, StyleSheet, Text, TextInput, View } from "react-native";
+import { MainStackParamList } from "../navigation/MainStack";
+import { VIDEO_CALL_SCREEN } from "../utils/ScreenConstants";
+import React from "react";
 
-type HomeScreenProps = NativeStackScreenProps<MainStackParamList, 'HomeScreen'>;
+type HomeScreenProps = NativeStackScreenProps<MainStackParamList, "HomeScreen">;
 
-export const HomeScreen = ({navigation}: HomeScreenProps) => {
-  const [username, setUsername] = useState('');
+export const HomeScreen = ({ navigation }: HomeScreenProps) => {
+  const [username, setUsername] = useState("");
   const navigateToVideoCall = () => {
-    if (username.trim() !== '') {
-      navigation.push(VIDEO_CALL_SCREEN, {username: username});
+    if (username.trim() !== "") {
+      navigation.push(VIDEO_CALL_SCREEN, { username: username });
     } else {
-      Alert.alert('USERNAME!!!', 'Please enter username to continue');
+      Alert.alert("USERNAME!!!", "Please enter username to continue");
     }
   };
   return (
@@ -20,9 +21,9 @@ export const HomeScreen = ({navigation}: HomeScreenProps) => {
       <Text>Username : </Text>
       <TextInput
         value={username}
-        onChangeText={value => setUsername(value)}
+        onChangeText={(value) => setUsername(value)}
         style={{
-          borderColor: 'gray',
+          borderColor: "gray",
           borderWidth: 1,
           marginTop: 10,
           padding: 10,
@@ -38,8 +39,8 @@ export const HomeScreen = ({navigation}: HomeScreenProps) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
     padding: 10,
   },
 });

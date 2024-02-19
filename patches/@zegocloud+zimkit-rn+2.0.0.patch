@@ -1,0 +1,624 @@
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/027327d58de46cba0f67da4b4aed5976/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/027327d58de46cba0f67da4b4aed5976/results.bin
+new file mode 100644
+index 0000000..61a58fa
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/027327d58de46cba0f67da4b4aed5976/results.bin
+@@ -0,0 +1 @@
++i/classes_dex
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/0a680b99ad9f31c2a00d6a72295bee99/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/0a680b99ad9f31c2a00d6a72295bee99/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/0a680b99ad9f31c2a00d6a72295bee99/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/0a680b99ad9f31c2a00d6a72295bee99/transformed/classes/classes_dex/classes.dex b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/0a680b99ad9f31c2a00d6a72295bee99/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..cadbff8
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/0a680b99ad9f31c2a00d6a72295bee99/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/2216cbeeb59911751a073a9543a743c2/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/2216cbeeb59911751a073a9543a743c2/results.bin
+new file mode 100644
+index 0000000..61a58fa
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/2216cbeeb59911751a073a9543a743c2/results.bin
+@@ -0,0 +1 @@
++i/classes_dex
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/69dc9879a7f88f59d76a49be6942cbec/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/69dc9879a7f88f59d76a49be6942cbec/results.bin
+new file mode 100644
+index 0000000..61a58fa
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/69dc9879a7f88f59d76a49be6942cbec/results.bin
+@@ -0,0 +1 @@
++i/classes_dex
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/86bcf7eee1423d0f91a84ffd4b774755/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/86bcf7eee1423d0f91a84ffd4b774755/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/86bcf7eee1423d0f91a84ffd4b774755/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/86bcf7eee1423d0f91a84ffd4b774755/transformed/classes/classes_dex/classes.dex b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/86bcf7eee1423d0f91a84ffd4b774755/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..945b64b
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/86bcf7eee1423d0f91a84ffd4b774755/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d804b00e7015b7b131538c773424859e/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d804b00e7015b7b131538c773424859e/results.bin
+new file mode 100644
+index 0000000..e3f0ff0
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d804b00e7015b7b131538c773424859e/results.bin
+@@ -0,0 +1 @@
++i/classes_global-synthetics
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d9061d817ad108bb8a7f0538ffc9504f/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d9061d817ad108bb8a7f0538ffc9504f/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d9061d817ad108bb8a7f0538ffc9504f/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d9061d817ad108bb8a7f0538ffc9504f/transformed/classes/classes_dex/classes.dex b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d9061d817ad108bb8a7f0538ffc9504f/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..945b64b
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/d9061d817ad108bb8a7f0538ffc9504f/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/da1a7ba9ec29a3baf97c07b63e02bca8/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/da1a7ba9ec29a3baf97c07b63e02bca8/results.bin
+new file mode 100644
+index 0000000..e3f0ff0
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/da1a7ba9ec29a3baf97c07b63e02bca8/results.bin
+@@ -0,0 +1 @@
++i/classes_global-synthetics
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/dee6255c02c9048e1e793afbbd5abdc0/results.bin b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/dee6255c02c9048e1e793afbbd5abdc0/results.bin
+new file mode 100644
+index 0000000..e3f0ff0
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/.transforms/dee6255c02c9048e1e793afbbd5abdc0/results.bin
+@@ -0,0 +1 @@
++i/classes_global-synthetics
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/generated/source/buildConfig/debug/com/zegocloud/zimkitrn/BuildConfig.java b/node_modules/@zegocloud/zimkit-rn/android/build/generated/source/buildConfig/debug/com/zegocloud/zimkitrn/BuildConfig.java
+new file mode 100644
+index 0000000..a9dbe3f
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/generated/source/buildConfig/debug/com/zegocloud/zimkitrn/BuildConfig.java
+@@ -0,0 +1,12 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.zegocloud.zimkitrn;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.zegocloud.zimkitrn";
++  public static final String BUILD_TYPE = "debug";
++  // Field from default config.
++  public static final boolean IS_NEW_ARCHITECTURE_ENABLED = false;
++}
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/generated/source/buildConfig/release/com/zegocloud/zimkitrn/BuildConfig.java b/node_modules/@zegocloud/zimkit-rn/android/build/generated/source/buildConfig/release/com/zegocloud/zimkitrn/BuildConfig.java
+new file mode 100644
+index 0000000..ec6ccc8
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/generated/source/buildConfig/release/com/zegocloud/zimkitrn/BuildConfig.java
+@@ -0,0 +1,12 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.zegocloud.zimkitrn;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = false;
++  public static final String LIBRARY_PACKAGE_NAME = "com.zegocloud.zimkitrn";
++  public static final String BUILD_TYPE = "release";
++  // Field from default config.
++  public static final boolean IS_NEW_ARCHITECTURE_ENABLED = false;
++}
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..5303d35
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.zegocloud.zimkitrn" >
++
++    <uses-sdk android:minSdkVersion="21" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+new file mode 100644
+index 0000000..5cb839d
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.zegocloud.zimkitrn",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..5303d35
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.zegocloud.zimkitrn" >
++
++    <uses-sdk android:minSdkVersion="21" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json
+new file mode 100644
+index 0000000..f4d3b13
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.zegocloud.zimkitrn",
++  "variantName": "release",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_main_jar/debug/classes.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_main_jar/debug/classes.jar
+new file mode 100644
+index 0000000..3415c6c
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_main_jar/debug/classes.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_metadata/debug/aar-metadata.properties b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+new file mode 100644
+index 0000000..776557e
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+@@ -0,0 +1,5 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_metadata/release/aar-metadata.properties b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_metadata/release/aar-metadata.properties
+new file mode 100644
+index 0000000..776557e
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/aar_metadata/release/aar-metadata.properties
+@@ -0,0 +1,5 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotations_typedef_file/debug/typedefs.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/annotations_typedef_file/debug/typedefs.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_library_classes_jar/debug/classes.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..367be94
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_library_classes_jar/release/classes.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_library_classes_jar/release/classes.jar
+new file mode 100644
+index 0000000..6968ed0
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_library_classes_jar/release/classes.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_r_class_jar/debug/R.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_r_class_jar/debug/R.jar
+new file mode 100644
+index 0000000..413b1d7
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_r_class_jar/debug/R.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_r_class_jar/release/R.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_r_class_jar/release/R.jar
+new file mode 100644
+index 0000000..413b1d7
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_r_class_jar/release/R.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_symbol_list/debug/R.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_symbol_list/debug/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_symbol_list/release/R.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/compile_symbol_list/release/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state
+new file mode 100644
+index 0000000..1c983fc
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..86f4e4d
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Mon Feb 19 13:06:39 IST 2024
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..4462bc1
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..22f60ce
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..f246e77
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..30a891b
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/jniLibs"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/release/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml
+new file mode 100644
+index 0000000..10fba65
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/shaders"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/release/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/packageDebugAssets/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+new file mode 100644
+index 0000000..cc51c97
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/debug/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/shader_assets/debug/out"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/packageReleaseAssets/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/packageReleaseAssets/merger.xml
+new file mode 100644
+index 0000000..cdabc20
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/packageReleaseAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/assets"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/release/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/shader_assets/release/out"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties
+new file mode 100644
+index 0000000..44344b3
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Fri Feb 16 17:11:23 IST 2024
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml
+new file mode 100644
+index 0000000..5ea491d
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/build/generated/res/resValues/release"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/BuildConfig.class b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/BuildConfig.class
+new file mode 100644
+index 0000000..391da6e
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/BuildConfig.class differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/ZimkitRnModule.class b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/ZimkitRnModule.class
+new file mode 100644
+index 0000000..e0f5853
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/ZimkitRnModule.class differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/ZimkitRnPackage.class b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/ZimkitRnPackage.class
+new file mode 100644
+index 0000000..967c9d6
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/debug/classes/com/zegocloud/zimkitrn/ZimkitRnPackage.class differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/BuildConfig.class b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/BuildConfig.class
+new file mode 100644
+index 0000000..3a1534c
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/BuildConfig.class differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/ZimkitRnModule.class b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/ZimkitRnModule.class
+new file mode 100644
+index 0000000..e0f5853
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/ZimkitRnModule.class differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/ZimkitRnPackage.class b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/ZimkitRnPackage.class
+new file mode 100644
+index 0000000..967c9d6
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/javac/release/classes/com/zegocloud/zimkitrn/ZimkitRnPackage.class differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/local_only_symbol_list/debug/R-def.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/local_only_symbol_list/release/R-def.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/local_only_symbol_list/release/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/local_only_symbol_list/release/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..2b94ea3
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,7 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.zegocloud.zimkitrn" >
++4
++5    <uses-sdk android:minSdkVersion="21" />
++6
++7</manifest>
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
+new file mode 100644
+index 0000000..2b94ea3
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
+@@ -0,0 +1,7 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.zegocloud.zimkitrn" >
++4
++5    <uses-sdk android:minSdkVersion="21" />
++6
++7</manifest>
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_java_res/debug/feature-zegocloud_zimkit-rn.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_java_res/debug/feature-zegocloud_zimkit-rn.jar
+new file mode 100644
+index 0000000..15cb0ec
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_java_res/debug/feature-zegocloud_zimkit-rn.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+new file mode 100644
+index 0000000..5303d35
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.zegocloud.zimkitrn" >
++
++    <uses-sdk android:minSdkVersion="21" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_manifest/release/AndroidManifest.xml b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
+new file mode 100644
+index 0000000..5303d35
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.zegocloud.zimkitrn" >
++
++    <uses-sdk android:minSdkVersion="21" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/navigation_json/debug/navigation.json b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/navigation_json/debug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/navigation_json/debug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/navigation_json/release/navigation.json b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/navigation_json/release/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/navigation_json/release/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..aeece0d
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/runtime_library_classes_jar/release/classes.jar b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/runtime_library_classes_jar/release/classes.jar
+new file mode 100644
+index 0000000..7ce09a9
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/runtime_library_classes_jar/release/classes.jar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+new file mode 100644
+index 0000000..85e0073
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+@@ -0,0 +1 @@
++com.zegocloud.zimkitrn
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt
+new file mode 100644
+index 0000000..85e0073
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt
+@@ -0,0 +1 @@
++com.zegocloud.zimkitrn
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/outputs/aar/zegocloud_zimkit-rn-debug.aar b/node_modules/@zegocloud/zimkit-rn/android/build/outputs/aar/zegocloud_zimkit-rn-debug.aar
+new file mode 100644
+index 0000000..15dfd2e
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/outputs/aar/zegocloud_zimkit-rn-debug.aar differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/@zegocloud/zimkit-rn/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..0d135ac
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,17 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:1:1-4:12
++INJECTED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:1:1-4:12
++	package
++		ADDED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:2:11-43
++		INJECTED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:1:11-69
++uses-sdk
++INJECTED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++INJECTED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/parag.mer/Desktop/VideoDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/outputs/logs/manifest-merger-release-report.txt b/node_modules/@zegocloud/zimkit-rn/android/build/outputs/logs/manifest-merger-release-report.txt
+new file mode 100644
+index 0000000..af3d525
+--- /dev/null
++++ b/node_modules/@zegocloud/zimkit-rn/android/build/outputs/logs/manifest-merger-release-report.txt
+@@ -0,0 +1,17 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:1:1-4:12
++INJECTED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:1:1-4:12
++	package
++		ADDED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:2:11-43
++		INJECTED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml:1:11-69
++uses-sdk
++INJECTED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++INJECTED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/parag.mer/Desktop/RNVideoCallDemo/node_modules/@zegocloud/zimkit-rn/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/@zegocloud/zimkit-rn/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..d1b9bd3
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin b/node_modules/@zegocloud/zimkit-rn/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..01bfc7f
+Binary files /dev/null and b/node_modules/@zegocloud/zimkit-rn/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/Conversation.js b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/Conversation.js
+index 5d5ee4f..8f4d503 100644
+--- a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/Conversation.js
++++ b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/Conversation.js
+@@ -9,6 +9,7 @@ var _reactDelegateComponent = _interopRequireDefault(require("react-delegate-com
+ var _Avatar = _interopRequireDefault(require("./common/Avatar"));
+ var _dateFormat = require("../utils/dateFormat");
+ var _react = require("react");
++var React = require("react");
+ var _index = require("../index");
+ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+ function Conversation(props) {
+diff --git a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/ConversationList.js b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/ConversationList.js
+index 54cc8c3..63523be 100644
+--- a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/ConversationList.js
++++ b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/ConversationList.js
+@@ -7,6 +7,7 @@ exports.default = void 0;
+ var _reactNative = require("react-native");
+ var _Conversation = _interopRequireDefault(require("./Conversation"));
+ var _react = require("react");
++var React = require("react");
+ var _reactDelegateComponent = _interopRequireDefault(require("react-delegate-component"));
+ var _index = require("../index");
+ var _ZIMKitConversationCore = _interopRequireDefault(require("../services/internal/ZIMKitConversationCore"));
+diff --git a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageInput.js b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageInput.js
+index cb49487..45194c0 100644
+--- a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageInput.js
++++ b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageInput.js
+@@ -6,6 +6,7 @@ Object.defineProperty(exports, "__esModule", {
+ exports.default = void 0;
+ var _reactNative = require("react-native");
+ var _react = require("react");
++var React = require("react");
+ var _index = require("../index");
+ function MessageInput(props) {
+   const {
+diff --git a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageList.js b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageList.js
+index b83d6af..de30385 100644
+--- a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageList.js
++++ b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/MessageList.js
+@@ -7,6 +7,7 @@ exports.default = void 0;
+ var _reactNative = require("react-native");
+ var _index = require("../index");
+ var _react = require("react");
++var React = require("react");
+ var _Messages = _interopRequireDefault(require("./messages/Messages"));
+ var _reactDelegateComponent = _interopRequireDefault(require("react-delegate-component"));
+ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+diff --git a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/Messages.js b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/Messages.js
+index 31ad21f..6bc483d 100644
+--- a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/Messages.js
++++ b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/Messages.js
+@@ -9,6 +9,7 @@ var _TextMessage = _interopRequireDefault(require("./TextMessage"));
+ var _Avatar = _interopRequireDefault(require("../common/Avatar"));
+ var _dateFormat = require("../../utils/dateFormat");
+ var _react = require("react");
++var React = require("react");
+ var _index = require("../../index");
+ var _reactDelegateComponent = _interopRequireDefault(require("react-delegate-component"));
+ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+diff --git a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/TextMessage.js b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/TextMessage.js
+index b7b93cf..ffc691c 100644
+--- a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/TextMessage.js
++++ b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/components/messages/TextMessage.js
+@@ -5,6 +5,7 @@ Object.defineProperty(exports, "__esModule", {
+ });
+ exports.default = void 0;
+ var _reactNative = require("react-native");
++var React = require("react");
+ function TextMessages(props) {
+   const {
+     text,
+diff --git a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/pages/MessageListPage.js b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/pages/MessageListPage.js
+index c58ad6c..8e3f955 100644
+--- a/node_modules/@zegocloud/zimkit-rn/lib/commonjs/pages/MessageListPage.js
++++ b/node_modules/@zegocloud/zimkit-rn/lib/commonjs/pages/MessageListPage.js
+@@ -8,6 +8,7 @@ var _MessageList = _interopRequireDefault(require("../components/MessageList"));
+ var _reactNative = require("react-native");
+ var _MessageInput = _interopRequireDefault(require("../components/MessageInput"));
+ var _react = require("react");
++var React = require("react");
+ var _reactDelegateComponent = _interopRequireDefault(require("react-delegate-component"));
+ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+ // import ZIMKitPlugins from "../services/internal/ZIMKitPlugins";

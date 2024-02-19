@@ -1,51 +1,43 @@
-import React, {useEffect, useState} from 'react';
-import {Alert, Button, StyleSheet, Text, TextInput, View} from 'react-native';
-import {ZIMKit} from '@zegocloud/zimkit-rn';
-import {NativeStackScreenProps} from '@react-navigation/native-stack';
-import {MainStackParamList} from '../navigation/MainStack';
-import {HOME_SCREEN} from '../utils/ScreenConstants';
-import {chatConfig} from '../utils/KeyCenter';
-import ZIM from 'zego-zim-react-native';
+import React, { useEffect, useState } from "react";
+import { Alert, Button, StyleSheet, Text, TextInput, View } from "react-native";
+import { ZIMKit } from "@zegocloud/zimkit-rn";
+import { NativeStackScreenProps } from "@react-navigation/native-stack";
+import { MainStackParamList } from "../navigation/MainStack";
+import { CHAT_LIST_SCREEN, HOME_SCREEN } from "../utils/ScreenConstants";
+import { chatConfig } from "../utils/KeyCenter";
 
 type LoginScreenProps = NativeStackScreenProps<
   MainStackParamList,
-  'LoginScreen'
+  "LoginScreen"
 >;
 
-export const LoginScreen = ({navigation, route}: LoginScreenProps) => {
-  const [userID, setUserId] = useState('');
-  const [userName, setUsername] = useState('');
+export const LoginScreen = ({ navigation, route }: LoginScreenProps) => {
+  const [userID, setUserId] = useState("");
+  const [userName, setUsername] = useState("");
 
   useEffect(() => {
     ZIMKit.init(chatConfig.appID, chatConfig.appSign);
   }, []);
 
   const navigateToHomeScreen = async () => {
-    if (userID !== '' && userName !== '') {
+    if (userID !== "" && userName !== "") {
       // ZIMKit.disconnectUser();
-      const token =
-        '04AAAAAGXQrq0AEHdkZ2ZtN2IyMjlmZ2hwcHAAoKBLu2E3NDqe4ADy4NZE+zEyKf5xyClmrpFQ0p7PY14i5ZncaByHcQwzOSR6gz8a9WOqnGprlt8QuiiFaoR7sGMKnw1UlfLHbwxxLZN+2192P5OGQyghYA4TZIQOLYikweMV/h3RkhAmnAtp1yvzw+DDi4dxNkSd2nQ//MIpcNSrzQ/igsfcbQe5PrIAR8Gb2+aNOctdM5Rt4NTIuJySLe4=';
-      //   ZIMKit.connectUser({userID: userID, userName: userName}, '').then(
-      //     (data: string) => {
-      //       // sdk failed callback is [Error: login failed], no code.
-      //       console.log('data :: ', data);
-      //       if (data === userID) {
-      //         navigation.navigate(HOME_SCREEN, {
-      //           userID: userID,
-      //           userName: userName,
-      //         });
-      //       } else {
-      //         console.log('not working');
-      //       }
-      //     },
-      //   );
-      const data = await ZIMKit.connectUser(
-        {userID: userID, userName: userName},
-        '',
+      ZIMKit.connectUser({ userID: userID, userName: userName }, "").then(
+        (data: string) => {
+          // sdk failed callback is [Error: login failed], no code.
+          console.log("data :: ", data);
+          if (data === userID) {
+            navigation.navigate(CHAT_LIST_SCREEN, {
+              userID: userID,
+              userName: userName,
+            });
+          } else {
+            console.log("not working");
+          }
+        }
       );
-      console.log('data :: ', data);
     } else {
-      Alert.alert('❌', 'Please enter both to continue');
+      Alert.alert("❌", "Please enter both to continue");
     }
   };
   return (
@@ -55,7 +47,7 @@ export const LoginScreen = ({navigation, route}: LoginScreenProps) => {
         <TextInput
           placeholder="Enter User ID"
           style={styles.TextInputStyle}
-          onChangeText={value => setUserId(value)}
+          onChangeText={(value) => setUserId(value)}
           value={userID}
         />
       </View>
@@ -64,7 +56,7 @@ export const LoginScreen = ({navigation, route}: LoginScreenProps) => {
         <TextInput
           placeholder="Enter Username"
           style={styles.TextInputStyle}
-          onChangeText={value => setUsername(value)}
+          onChangeText={(value) => setUsername(value)}
           value={userName}
         />
       </View>
@@ -76,18 +68,18 @@ export const LoginScreen = ({navigation, route}: LoginScreenProps) => {
 const styles = StyleSheet.create({
   mainContainer: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
   },
   inputContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
+    flexDirection: "row",
+    alignItems: "center",
   },
   textStyle: {
     marginTop: 10,
   },
   TextInputStyle: {
-    borderColor: 'gray',
+    borderColor: "gray",
     borderWidth: 1,
     marginTop: 10,
     padding: 10,
