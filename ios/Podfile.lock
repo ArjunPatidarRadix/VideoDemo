@@ -1148,6 +1148,10 @@ PODS:
   - RNSound/Core (0.11.2):
     - React-Core
   - SocketRocket (0.6.1)
+  - ViroKit (1.0):
+    - React
+  - ViroReact (1.0):
+    - React
   - Yoga (1.14.0)
   - zego-uikit-prebuilt-call-rn (4.4.2):
     - React-Core
@@ -1242,6 +1246,8 @@ DEPENDENCIES:
   - "RNNotifee (from `../node_modules/@notifee/react-native`)"
   - RNScreens (from `../node_modules/react-native-screens`)
   - RNSound (from `../node_modules/react-native-sound`)
+  - "ViroKit (from `../node_modules/@viro-community/react-viro/ios/dist/ViroRenderer/`)"
+  - "ViroReact (from `../node_modules/@viro-community/react-viro/ios/`)"
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
   - "zego-uikit-prebuilt-call-rn (from `../node_modules/@zegocloud/zego-uikit-prebuilt-call-rn`)"
   - "zego-uikit-rn (from `../node_modules/@zegocloud/zego-uikit-rn`)"
@@ -1383,6 +1389,10 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-screens"
   RNSound:
     :path: "../node_modules/react-native-sound"
+  ViroKit:
+    :path: "../node_modules/@viro-community/react-viro/ios/dist/ViroRenderer/"
+  ViroReact:
+    :path: "../node_modules/@viro-community/react-viro/ios/"
   Yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
   zego-uikit-prebuilt-call-rn:
@@ -1464,6 +1474,8 @@ SPEC CHECKSUMS:
   RNScreens: b582cb834dc4133307562e930e8fa914b8c04ef2
   RNSound: 6c156f925295bdc83e8e422e7d8b38d33bc71852
   SocketRocket: f32cd54efbe0f095c4d7594881e52619cfe80b17
+  ViroKit: 700d3d4ca086368d06224de1cbbc19781aea2094
+  ViroReact: f4980e6b04918c4340637f9cbaae22a6bb7ea440
   Yoga: 1b901a6d6eeba4e8a2e8f308f708691cdb5db312
   zego-uikit-prebuilt-call-rn: 467378bc73519b86d89306e051250bf4e11cd04e
   zego-uikit-rn: 6a9bc3033c5a7d234f83dab9c9cf2707cd693a00
@@ -1471,6 +1483,6 @@ SPEC CHECKSUMS:
   ZegoExpressEngine: 4134bbfaecf5ce4ab5c47338ff817942d646750f
   ZIM: 57ce22334b15f918ec13ce88e9632d3ebe36d5ba
 
-PODFILE CHECKSUM: 13aebdcf18f45a8b851918ab053198bfac7e0757
+PODFILE CHECKSUM: c725e7b2c090161f409bcf6736e2a7f10542ddaa
 
 COCOAPODS: 1.12.1
